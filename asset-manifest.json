@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-app-word-counter/static/css/main.b43e1cbc.css",
-    "main.js": "/my-app-word-counter/static/js/main.3c546f4a.js",
+    "main.js": "/my-app-word-counter/static/js/main.26c9b7ea.js",
     "static/js/453.96453769.chunk.js": "/my-app-word-counter/static/js/453.96453769.chunk.js",
     "index.html": "/my-app-word-counter/index.html",
     "main.b43e1cbc.css.map": "/my-app-word-counter/static/css/main.b43e1cbc.css.map",
-    "main.3c546f4a.js.map": "/my-app-word-counter/static/js/main.3c546f4a.js.map",
+    "main.26c9b7ea.js.map": "/my-app-word-counter/static/js/main.26c9b7ea.js.map",
     "453.96453769.chunk.js.map": "/my-app-word-counter/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b43e1cbc.css",
-    "static/js/main.3c546f4a.js"
+    "static/js/main.26c9b7ea.js"
   ]
 }
